@@ -10,3 +10,7 @@ typechain
 cache
 artifacts
 scripts
+
+!README.md
+!INSTALL.md
+*.md
