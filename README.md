@@ -67,7 +67,6 @@ The protocol is deployed across multiple blockchain networks with network-specif
 | BSC | 0.1 BNB | 200,000 TIME | 4,800,000 TIME |
 | Fantom | 20 FTM | 400,000 TIME | 9,600,000 TIME |
 | Arbitrum | 0.01 ETH | 2,000,000 TIME | 48,000,000 TIME |
-| Evmos | 30 EVMOS | 200,000 TIME | 4,800,000 TIME |
 
 ## Tokenomics
 
